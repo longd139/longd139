@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Building+Scalable+Fullstack+Projects;Specializing+in+Java%2C+Spring+Boot+%26+Node.js;Always+learning+%26+Building+cool+things)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/CODELATBUG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/longd139"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://facebook.com/Long.d139"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:longdk139@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -104,20 +104,20 @@ fun_fact: "I like hacking some games but I can't :)) 🎮❌"
 
 <div align="center">
 
-<a href="https://github.com/CODELATBUG">
-  <img src="https://streak-stats.demolab.com/?user=CODELATBUG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/longd139">
+  <img src="https://streak-stats.demolab.com/?user=longd139&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/CODELATBUG">
-  <img src="https://github-profile-trophy.vercel.app/?username=CODELATBUG&theme=tokyonight&no-bg=true&margin_w=10" alt="GitHub Trophies" />
+<a href="https://github.com/longd139">
+  <img src="https://github-profile-trophy.vercel.app/?username=longd139&theme=tokyonight&no-bg=true&margin_w=10" alt="GitHub Trophies" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CODELATBUG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELATBUG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=longd139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longd139&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 </div>
 
@@ -126,7 +126,7 @@ fun_fact: "I like hacking some games but I can't :)) 🎮❌"
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CODELATBUG/CODELATBUG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/longd139/longd139/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -138,11 +138,11 @@ fun_fact: "I like hacking some games but I can't :)) 🎮❌"
 </p>
 
 <p align="center">
-  <a href="https://github.com/CODELATBUG"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://github.com/longd139"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://facebook.com/Long.d139"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <a href="mailto:longdk139@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CODELATBUG&style=flat-square&color=38bdf8&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=longd139&style=flat-square&color=38bdf8&label=Profile+Views" alt="Profile Views" />
 </div>
