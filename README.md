@@ -111,13 +111,9 @@ fun_fact: "I like hacking some games but I can't :)) 🎮❌"
 <br/><br/>
 
 <a href="https://github.com/longd139">
-  <img src="https://github-profile-trophy.vercel.app/?username=longd139&theme=tokyonight&no-bg=true&margin_w=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-tau-bay.vercel.app/api?username=longd139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-tau-bay.vercel.app/api/top-langs/?username=longd139&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=longd139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longd139&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 </div>
 
